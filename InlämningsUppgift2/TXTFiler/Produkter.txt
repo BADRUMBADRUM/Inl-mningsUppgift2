@@ -1,0 +1,5 @@
+﻿0 Bananer 12,50
+1 Kaffe 21,32
+2 Apelsin 30,20
+3 Havregryn 42,21
+4 Yogurt 24,40
